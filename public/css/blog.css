@@ -1,0 +1,28 @@
+.card {
+    border: 1px solid #DBDBDB !important;
+    margin-top: 3rem;
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.15);
+}
+
+.card-image-right {
+    max-width: 100rem;
+}
+
+.add-post {
+    color: #212529 !important;
+}
+
+.btn-outline-light:not(:disabled):not(.disabled):active, .btn-outline-light:not(:disabled):not(.disabled).active, .show > .btn-outline-light.dropdown-toggle {
+    border-color: #ced4da !important;
+    margin-top: 5rem;
+}
+
+.btn-outline-danger:not(:disabled):not(.disabled):active, .btn-outline-danger:not(:disabled):not(.disabled).active, .show > .btn-outline-danger.dropdown-toggle {
+    background-color: #F8F9FA !important;
+    color: #dc3545 !important;
+}
+
+#file {
+    font-family: 'Montserrat', sans-serif;;
+}
+

@@ -1,0 +1,24 @@
+.navbar-brand {
+    font-family: 'Kaushan Script', cursive;
+}
+
+.nav-link {
+    font-family: 'Delius', cursive;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: red !important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black !important;
+}
+
+.navbar {
+    border-bottom: 1px solid #ced4da !important;
+    background-color: #fff !important;
+}
+
+
+
+
+
